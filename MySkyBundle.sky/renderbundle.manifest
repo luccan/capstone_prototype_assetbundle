@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4086841377
+CRC: 390489675
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af48bffc61b52699e1bc721ff097a73f
+    Hash: 7f0c586449daac5441a4e7a89c1135e9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e6d74f2d6b370c4d26f3cae461538e43
+    Hash: 540d70e77afe6fd8bf6ece50cde760bc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,6 +24,8 @@ ClassTypes:
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 64
   Script: {instanceID: 0}
 Assets:
 - Assets/UserPrefabs/Furniture.prefab
