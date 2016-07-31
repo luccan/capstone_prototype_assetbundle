@@ -2,5 +2,5 @@ Material:True:True
 Furniture:True:True
 Human:True:True
 FreeMovement:True:False
-View:True:True
+View:False:False
 Noise:True:True
