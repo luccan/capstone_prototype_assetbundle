@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3366554919
+CRC: 790284876
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 19922da89185ff113658b72e632127b7
+    Hash: 2936c26984936431c975a5b8292e8a18
   TypeTreeHash:
     serializedVersion: 2
     Hash: 540d70e77afe6fd8bf6ece50cde760bc
@@ -28,6 +28,7 @@ ClassTypes:
 - Class: 64
   Script: {instanceID: 0}
 Assets:
+- Assets/UserPrefabs/Furniture.prefab
 - Assets/UserPrefabs/View.prefab
 - Assets/UserPrefabs/Walls.prefab
 Dependencies: []
