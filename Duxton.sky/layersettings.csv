@@ -4,4 +4,5 @@ Human:True:True
 FreeMovement:True:False
 View:True:True
 Noise:True:True
-MovementSpeed:2
+MovementSpeed:1
+LightIntensity:1.5
