@@ -1,6 +1,6 @@
 Material:True:True
 Furniture:True:True
-Human:True:True
+Human:False:False
 FreeMovement:True:False
 View:True:True
 Noise:True:True
