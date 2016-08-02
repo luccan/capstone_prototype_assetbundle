@@ -5,4 +5,4 @@ FreeMovement:True:False
 View:True:True
 Noise:True:True
 MovementSpeed:0.5
-LightIntensity:2
+LightIntensity:1
